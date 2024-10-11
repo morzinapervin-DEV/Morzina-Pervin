@@ -11,19 +11,19 @@ Hey! I'm Morzina Pervin. I'm a professional Website Developer. I started my care
 ✅ JavaScript <br>
 ✅ PHP <br>
 ✅ HTML5 / CSS3 / Bootstrap <br>
-✅ Photoshop <br>
+✅ GSAP <br>
 ✅ React 
 <br>
 <br>
  
 <b>More About Me:</b><br>
-🔭 I’m currently working on Shikhbe Shobai <br>
+🔭 I’m currently working on Fiverr as a freelancer <br>
 🌱 I’m currently learning React JS <br>
 👯 I’m looking to collaborate on Github 
 
 <br>
 
-📫 <b>How to reach me:</b> <br>Email: morzinapervin1982@gmail.com <br>Fiverrr: https://www.fiverr.com/morzinapervin?up_rollout=true <br>
+📫 <b>How to reach me:</b> <br>Email: morzinapervin1982@gmail.com <br>Fiverr: https://www.fiverr.com/morzinapervin?up_rollout=true <br>
 <br>
 💬 <b>Ask me about Web Development. I am available in--</b><br>
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/morzinapervin)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/morzina-pervin-797ba1220//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/champa.hossain.54/)  
