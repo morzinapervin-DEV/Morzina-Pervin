@@ -25,7 +25,7 @@ I'm a professional Website Developer. I started my career as a Website Developer
 📫 <b>How to reach me:</b> <br>Email: morzinapervin1982@gmail.com <br>Fiverr: https://www.fiverr.com/morzinapervin?up_rollout=true <br>
 <br>
 💬 <b>Ask me about Web Development. I am available in--</b><br>
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/morzinapervin)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/morzina-pervin-797ba1220//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/champa.hossain.54/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/morzinapervin-DEV)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/morzina-pervin-797ba1220//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/champa.hossain.54/)  
 <br>
 [Profile views](https://gpvc.arturio.dev/morzinapervin) <br>
 <br>
